@@ -1,1 +1,1 @@
-#/c# | tel-hai-college
+# c.s tel-hai-college
