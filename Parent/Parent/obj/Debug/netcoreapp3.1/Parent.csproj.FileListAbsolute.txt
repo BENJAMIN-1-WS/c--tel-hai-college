@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Parent\Parent\bin\Debug\netcoreapp3.1\Parent.exe
+C:\Users\User\source\repos\Parent\Parent\bin\Debug\netcoreapp3.1\Parent.deps.json
+C:\Users\User\source\repos\Parent\Parent\bin\Debug\netcoreapp3.1\Parent.runtimeconfig.json
+C:\Users\User\source\repos\Parent\Parent\bin\Debug\netcoreapp3.1\Parent.runtimeconfig.dev.json
+C:\Users\User\source\repos\Parent\Parent\bin\Debug\netcoreapp3.1\Parent.dll
+C:\Users\User\source\repos\Parent\Parent\bin\Debug\netcoreapp3.1\Parent.pdb
+C:\Users\User\source\repos\Parent\Parent\obj\Debug\netcoreapp3.1\Parent.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Parent\Parent\obj\Debug\netcoreapp3.1\Parent.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Parent\Parent\obj\Debug\netcoreapp3.1\Parent.AssemblyInfo.cs
+C:\Users\User\source\repos\Parent\Parent\obj\Debug\netcoreapp3.1\Parent.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Parent\Parent\obj\Debug\netcoreapp3.1\Parent.dll
+C:\Users\User\source\repos\Parent\Parent\obj\Debug\netcoreapp3.1\Parent.pdb
+C:\Users\User\source\repos\Parent\Parent\obj\Debug\netcoreapp3.1\Parent.genruntimeconfig.cache

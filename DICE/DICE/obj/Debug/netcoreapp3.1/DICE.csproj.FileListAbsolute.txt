@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\DICE\DICE\obj\Debug\netcoreapp3.1\DICE.csprojAssemblyReference.cache
+C:\Users\User\source\repos\DICE\DICE\obj\Debug\netcoreapp3.1\DICE.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DICE\DICE\obj\Debug\netcoreapp3.1\DICE.AssemblyInfo.cs
+C:\Users\User\source\repos\DICE\DICE\obj\Debug\netcoreapp3.1\DICE.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DICE\DICE\bin\Debug\netcoreapp3.1\DICE.exe
+C:\Users\User\source\repos\DICE\DICE\bin\Debug\netcoreapp3.1\DICE.deps.json
+C:\Users\User\source\repos\DICE\DICE\bin\Debug\netcoreapp3.1\DICE.runtimeconfig.json
+C:\Users\User\source\repos\DICE\DICE\bin\Debug\netcoreapp3.1\DICE.runtimeconfig.dev.json
+C:\Users\User\source\repos\DICE\DICE\bin\Debug\netcoreapp3.1\DICE.dll
+C:\Users\User\source\repos\DICE\DICE\bin\Debug\netcoreapp3.1\DICE.pdb
+C:\Users\User\source\repos\DICE\DICE\obj\Debug\netcoreapp3.1\DICE.dll
+C:\Users\User\source\repos\DICE\DICE\obj\Debug\netcoreapp3.1\DICE.pdb
+C:\Users\User\source\repos\DICE\DICE\obj\Debug\netcoreapp3.1\DICE.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\FlightCompProj\bin\Debug\FlightCompProj.exe.config
+C:\Users\User\source\repos\FlightCompProj\bin\Debug\FlightCompProj.exe
+C:\Users\User\source\repos\FlightCompProj\bin\Debug\FlightCompProj.pdb
+C:\Users\User\source\repos\FlightCompProj\obj\Debug\FlightCompProj.csprojAssemblyReference.cache
+C:\Users\User\source\repos\FlightCompProj\obj\Debug\FlightCompProj.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FlightCompProj\obj\Debug\FlightCompProj.exe
+C:\Users\User\source\repos\FlightCompProj\obj\Debug\FlightCompProj.pdb
+C:\Users\User\source\repos\Fligth\FlightCompProj\bin\Debug\FlightCompProj.exe.config
+C:\Users\User\source\repos\Fligth\FlightCompProj\bin\Debug\FlightCompProj.exe
+C:\Users\User\source\repos\Fligth\FlightCompProj\bin\Debug\FlightCompProj.pdb
+C:\Users\User\source\repos\Fligth\FlightCompProj\obj\Debug\FlightCompProj.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Fligth\FlightCompProj\obj\Debug\FlightCompProj.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fligth\FlightCompProj\obj\Debug\FlightCompProj.exe
+C:\Users\User\source\repos\Fligth\FlightCompProj\obj\Debug\FlightCompProj.pdb
